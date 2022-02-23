@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"TAKIACADEMY"
+	],
+	"copyright": "Copyright © 2021, TAKIACADEMY",
+	"dependencies": {
+		"vibe-d": "~>0.9"
+	},
+	"description": "A simple vibe.d server application.",
+	"license": "proprietary",
+	"name": "webchat"
+}
